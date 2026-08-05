@@ -1,0 +1,19 @@
+# secrets
+.env
+
+# python environment
+.venv/
+__pycache__/
+*.pyc
+
+# large raw downloaded datasets (re-fetchable via commands documented in each README)
+pillar-1-ai-safety/track-A-reproducibility/data/datasets.zip
+pillar-1-ai-safety/track-A-reproducibility/data/datasets/
+pillar-1-ai-safety/track-A-reproducibility/data/elephant_full_results.zip
+pillar-1-ai-safety/track-A-reproducibility/data/full_results/
+pillar-2-cybersecurity/data/bigvul_all_c_cpp_release2.0.csv
+pillar-2-cybersecurity/data/primevul_full/
+
+# OS/editor cruft
+.DS_Store
+.ipynb_checkpoints/

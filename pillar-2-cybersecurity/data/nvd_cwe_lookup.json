@@ -1,0 +1,1878 @@
+{
+  "CVE-2000-1254": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-310",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2009-0946": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-190",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2010-5313": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-362",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2011-2183": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-362",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2011-2200": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-20",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2011-2798": {
+    "status": "ok",
+    "cwes": [],
+    "vuln_status": "Modified"
+  },
+  "CVE-2011-3103": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-399",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2011-3105": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-399",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2011-3234": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-125",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2011-3961": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-362",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2011-4128": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-119",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2012-1090": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-20",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2012-2143": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-310",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2012-2383": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-189",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2012-2673": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-189",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2012-3400": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-787",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2012-3430": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-200",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2012-3510": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-399",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2012-5140": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-416",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2012-6113": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-200",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2012-6537": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-200",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2013-0166": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-310",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2013-0889": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-863",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2013-1772": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-119",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2013-1774": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-264",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2013-1824": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-611",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2013-2596": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-190",
+        "type": "Primary"
+      },
+      {
+        "value": "CWE-190",
+        "type": "Secondary"
+      }
+    ],
+    "vuln_status": "Analyzed"
+  },
+  "CVE-2013-2906": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-362",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2013-2920": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-119",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2013-3224": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-200",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2013-3302": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-362",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2013-4162": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-399",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2013-4254": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-20",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2013-4300": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-264",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2013-7014": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-189",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2013-7271": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-20",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2014-0077": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-787",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2014-0143": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-190",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2014-0237": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-399",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2014-0791": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-189",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2014-2706": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-362",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2014-3611": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-362",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2014-4027": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-200",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2014-4343": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-415",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2014-4344": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-476",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2014-4655": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-190",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2014-7841": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-399",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2014-9423": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-200",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2014-9746": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-20",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2014-9763": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-189",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2015-0205": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-310",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2015-0206": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-119",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2015-1292": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-264",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2015-1351": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-416",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2015-1529": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-190",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2015-1593": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-264",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2015-1791": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-362",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2015-1867": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-264",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2015-3228": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-189",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2015-5221": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-416",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2015-5307": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-399",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2015-5330": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-200",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2015-7550": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-362",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2015-7613": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-362",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2015-8867": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-310",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2015-8872": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-189",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2015-8962": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-415",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-0798": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-399",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-0804": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-119",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-0826": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-264",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-10044": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-264",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-10051": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-416",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-10066": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-120",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-10150": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-264",
+        "type": "Primary"
+      },
+      {
+        "value": "CWE-416",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-10164": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-119",
+        "type": "Primary"
+      },
+      {
+        "value": "CWE-190",
+        "type": "Primary"
+      },
+      {
+        "value": "CWE-787",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-10210": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-476",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-10248": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-476",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-10250": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-476",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-10507": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-190",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-1618": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-200",
+        "type": "Primary"
+      },
+      {
+        "value": "CWE-310",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-2053": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-310",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-2117": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-200",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-2181": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-189",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-2538": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-189",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-2545": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-362",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-3871": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-264",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-3890": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-264",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-4478": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-119",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-4805": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-416",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-5314": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-787",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-5338": {
+    "status": "ok",
+    "cwes": [],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-5355": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-20",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-5357": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-20",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-5767": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-190",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-6823": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-190",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-6834": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-120",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-7413": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-416",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-7799": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-125",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-7910": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-416",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-7911": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-362",
+        "type": "Primary"
+      },
+      {
+        "value": "CWE-416",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-8646": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-476",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-8675": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-476",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-9538": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-190",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2016-9583": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-125",
+        "type": "Secondary"
+      },
+      {
+        "value": "CWE-190",
+        "type": "Secondary"
+      },
+      {
+        "value": "CWE-125",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-0635": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-476",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-0637": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-119",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-0813": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-772",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-11447": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-772",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-12644": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-772",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-12665": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-772",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-12666": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-772",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-12668": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-772",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-12669": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-772",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-12982": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-119",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-12993": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-125",
+        "type": "Primary"
+      },
+      {
+        "value": "CWE-125",
+        "type": "Secondary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-13027": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-125",
+        "type": "Primary"
+      },
+      {
+        "value": "CWE-125",
+        "type": "Secondary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-13139": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-125",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-14041": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-787",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-15033": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-772",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-15277": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-200",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-16359": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-476",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-17712": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-362",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-18174": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-415",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-18255": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-190",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-5105": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-20",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-5340": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-190",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-5506": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-415",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-5507": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-772",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-5509": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-787",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-5552": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-401",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-6317": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-772",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-6355": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-190",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-6386": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-772",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-6435": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-119",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-7863": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-787",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-7875": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-787",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-8294": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-125",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-8890": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-415",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-9051": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-476",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-9143": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-772",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-9227": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-125",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-9618": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-119",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-9739": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-125",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2017-9985": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-125",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2018-1000039": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-416",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2018-1000127": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-190",
+        "type": "Primary"
+      },
+      {
+        "value": "CWE-667",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2018-1000877": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-415",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2018-1116": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-285",
+        "type": "Secondary"
+      },
+      {
+        "value": "CWE-862",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2018-12633": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-362",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2018-15861": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-476",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2018-16425": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-415",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2018-17474": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-416",
+        "type": "Primary"
+      },
+      {
+        "value": "CWE-787",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2018-18341": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-190",
+        "type": "Primary"
+      },
+      {
+        "value": "CWE-787",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2018-19489": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-362",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2018-1999014": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-125",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2018-20542": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-119",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2018-20846": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-20",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2018-6086": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-416",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2018-6101": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-20",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2018-6139": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-20",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2018-6143": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-125",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2018-7480": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-415",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2018-7729": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-125",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2018-7757": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-772",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2018-8787": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-680",
+        "type": "Secondary"
+      },
+      {
+        "value": "CWE-190",
+        "type": "Primary"
+      },
+      {
+        "value": "CWE-787",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2018-9473": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-190",
+        "type": "Primary"
+      },
+      {
+        "value": "CWE-787",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2018-9491": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-190",
+        "type": "Primary"
+      },
+      {
+        "value": "CWE-787",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2018-9498": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-190",
+        "type": "Primary"
+      },
+      {
+        "value": "CWE-787",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2019-1000019": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-125",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2019-10639": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-326",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2019-11463": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-401",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2019-11811": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-416",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2019-12109": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-476",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2019-12209": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-59",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2019-12382": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-476",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2019-12982": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-119",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2019-13223": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-617",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2019-13301": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-401",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2019-13310": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-401",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2019-13311": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-401",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  },
+  "CVE-2019-5754": {
+    "status": "ok",
+    "cwes": [
+      {
+        "value": "CWE-327",
+        "type": "Primary"
+      }
+    ],
+    "vuln_status": "Modified"
+  }
+}
